@@ -1,0 +1,32 @@
+.weather-display {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .weather-icon {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .weather-info {
+    margin-top: 10px;
+  }
+  
+  .weather-details {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .detail {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+  }
+  
+  .detail img {
+    width: 20px;
+    margin-right: 10px;
+  }
+  
